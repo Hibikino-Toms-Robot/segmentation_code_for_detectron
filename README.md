@@ -1,14 +1,10 @@
 # segmentation_code_for_mmdetection
 
-mmdetection mask-rcnn学習用コード
-
-train.py 学習用コード 
-
-demo.py 推論用コード 
-
-output　weightやcheckpointファイルのディレクトリ 
-
-laboro_big　データセット 
+mmdetection mask-rcnn学習用コード  
+train.py 学習用コード  
+demo.py 推論用コード  
+output　weightやcheckpointファイルのディレクトリ  
+laboro_big　データセット  
 
 コード解説
 ```train.py
